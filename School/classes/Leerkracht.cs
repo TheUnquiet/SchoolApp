@@ -14,7 +14,7 @@ namespace SchoolApp.classes
 
         public void StelUVoor()
         {
-            Console.WriteLine("Hallo ik geef les.");
+            Console.WriteLine("Hallo ik ben een leerkracht.");
 
         }
 
